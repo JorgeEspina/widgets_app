@@ -23,7 +23,7 @@ class AppTheme {
     useMaterial3: true,
     colorSchemeSeed: colorList[selectedColor],
     appBarTheme: const AppBarTheme(
-      centerTitle: true,
+      centerTitle: false,
     )
   );
 }
